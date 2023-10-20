@@ -1,2 +1,2 @@
-# Presentation of Risk Assessment methodologies and symbolic implementation of a security plan
+# Presentation of Risk Assessment methodologies and symbolic implementation of a security plan (Greek)
 The purpose of this project is to present a complete proposal of a security plan regarding a diagnostic center that processes personal and sensitive personal data.
