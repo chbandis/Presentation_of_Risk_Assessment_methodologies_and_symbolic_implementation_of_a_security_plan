@@ -1,0 +1,2 @@
+# Presentation_of_Risk_Assessment_methodologies_and_symbolic_implementation_of_a_security_plan
+Information Security and Digital Forensics (MSc) Project
