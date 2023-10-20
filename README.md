@@ -1,2 +1,2 @@
-# Presentation_of_Risk_Assessment_methodologies_and_symbolic_implementation_of_a_security_plan
-Information Security and Digital Forensics (MSc) Project
+# Presentation of Risk Assessment methodologies and symbolic implementation of a security plan
+The purpose of this project is to present a complete proposal of a security plan regarding a diagnostic center that processes personal and sensitive personal data.
